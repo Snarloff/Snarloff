@@ -29,5 +29,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snarloff&show_icons=true&locale=en&layout=compact" alt="snarloff" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snarloff&" alt="snarloff" /></p>
+<img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Snarloff&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats" width="60%">
+
+<p align="center">
+ 🚀 OneUx is the future
+</p>
 
