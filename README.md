@@ -12,13 +12,14 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![Ruby](http://img.shields.io/badge/-Ruby-D51F06?style=flat-square&logo=ruby&logoColor=ffffff)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
 
 - Banco de Dados
 
-![Mysql](https://img.shields.io/badge/-MySql-FFCA28?style=flat-square&logo=mysql&logoColor=ffffff)
+![Mysql](https://img.shields.io/badge/-MySQL-FFCA28?style=flat-square&logo=mysql&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=336791)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-589636?style=flat-square&logo=mongodb&logoColor=white&labelColor=589636)
-![PostgreSQL](https://img.shields.io/badge/-Postgresql-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=336791)
 
 - Outros
 
