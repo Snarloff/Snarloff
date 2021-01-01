@@ -26,10 +26,13 @@
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-FF9900?style=flat-square&logo=sublime-text&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
+- Fale comigo:
 
-<img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Snarloff&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats" width="60%"><br>
+ - <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.gg/WfsjPMD): Snarloff#2055 </a>
+
 
 <p align="left">
- 🚀 OneUx is the future
+ 🚀 OneUx is the future © 2021
 </p>
 
+<img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Snarloff&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats" width="60%"><br>
