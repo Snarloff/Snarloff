@@ -17,6 +17,7 @@
 - Banco de Dados
 
 ![Mysql](https://img.shields.io/badge/-Mysql-FFCA28?style=flat-square&logo=mysql&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/-mongodb-589636?style=flat-square&logo=mongodb&logoColor=white&labelColor=589636)
 
 - Outros
 
