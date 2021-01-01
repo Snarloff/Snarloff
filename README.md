@@ -20,6 +20,7 @@
 ![Mysql](https://img.shields.io/badge/-MySQL-FFCA28?style=flat-square&logo=mysql&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=336791)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-589636?style=flat-square&logo=mongodb&logoColor=white&labelColor=589636)
+![Redis](https://img.shields.io/badge/-Redis-d82c20?style=flat-square&logo=redis&logoColor=white&labelColor=d82c20)
 
 - Outros
 
