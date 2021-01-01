@@ -27,11 +27,9 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snarloff&show_icons=true&locale=en&layout=compact" alt="snarloff" /></p>
+<img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Snarloff&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats" width="60%"><br>
 
-<img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Snarloff&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats" width="60%">
-
-<p align="center">
+<p align="left">
  🚀 OneUx is the future
 </p>
 
