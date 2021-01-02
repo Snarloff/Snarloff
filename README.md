@@ -17,7 +17,7 @@
 
 - Frameworks
 
-![Express](https://img.shields.io/badge/-Express-339933?style=flat-square&logo=express.js)
+![Express](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat)
 ![Django](https://img.shields.io/badge/-Django-092e20?style=flat-square&logo=django)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 ![Pandas](https://img.shields.io/badge/Pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)
