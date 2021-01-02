@@ -20,7 +20,7 @@
 ![Express](https://img.shields.io/badge/-Express-339933?style=flat-square&logo=express.js)
 ![Django](https://img.shields.io/badge/-Django-092e20?style=flat-square&logo=django)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
-![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)
 
 - Banco de Dados
 
@@ -34,6 +34,9 @@
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![Glitch](https://img.shields.io/badge/Glitch%20-%233333FF.svg?&style=flat&logo=glitch&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel%20-%23000000.svg?&style=flat&logo=vercel&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=flat&logo=digitalOcean&logoColor=white)
 ![VSCode](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-FF9900?style=flat-square&logo=sublime-text&logoColor=ffffff)
 ![CircleCI](https://img.shields.io/badge/-CircleCI-3AA3E3?style=flat-square&logo=circleci&labelColor=3AA3E3)
