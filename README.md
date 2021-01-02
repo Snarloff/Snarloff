@@ -17,7 +17,7 @@
 
 - Frameworks
 
-![Express](https://img.shields.io/badge/-Express-339933?style=flat-square&logo=express)
+![Express](https://img.shields.io/badge/-Express-339933?style=flat-square&logo=express.js)
 ![Django](https://img.shields.io/badge/-Django-092e20?style=flat-square&logo=django)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 
@@ -25,6 +25,7 @@
 
 ![Mysql](https://img.shields.io/badge/-MySQL-FFCA28?style=flat-square&logo=mysql&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=336791)
+![SQlite](https://img.shields.io/badge/-SQlite-336791?style=flat-square&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-589636?style=flat-square&logo=mongodb&logoColor=white&labelColor=589636)
 ![Redis](https://img.shields.io/badge/-Redis-d82c20?style=flat-square&logo=redis&logoColor=white&labelColor=d82c20)
 
@@ -36,6 +37,7 @@
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-FF9900?style=flat-square&logo=sublime-text&logoColor=ffffff)
 ![CircleCI](https://img.shields.io/badge/-CircleCI-3AA3E3?style=flat-square&logo=circleci&labelColor=3AA3E3)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![Apache](http://img.shields.io/badge/-Apache-f69824?style=flat-square&logo=apache&logoColor=ffffff)
 
 - Fale comigo:
 
