@@ -17,7 +17,7 @@
 
 - Frameworks
 
-![Express](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat)
+![Express](https://img.shields.io/badge/Express.js%20-%23404d59.svg?&style=flat)
 ![Django](https://img.shields.io/badge/-Django-092e20?style=flat-square&logo=django)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 ![Pandas](https://img.shields.io/badge/Pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)
@@ -50,5 +50,8 @@
 
 
 #### 🚀 OneUx is the future © 2021
+
+#### “O maior risco é não correr nenhum risco. Em um mundo que está mudando rapidamente, a única estratégia que certamente vai falhar é não correr riscos.” (Mark Zuckerberg)
+### “Previsões geralmente nos dizem mais sobre quem fez a previsão do que da previsão em si.” (Warren Buffett)
 
 <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Snarloff&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats" width="60%"><br>
