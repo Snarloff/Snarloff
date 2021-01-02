@@ -37,6 +37,7 @@
 ![Glitch](https://img.shields.io/badge/Glitch%20-%233333FF.svg?&style=flat&logo=glitch&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel%20-%23000000.svg?&style=flat&logo=vercel&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=flat&logo=digitalOcean&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=white)
 ![VSCode](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-FF9900?style=flat-square&logo=sublime-text&logoColor=ffffff)
 ![CircleCI](https://img.shields.io/badge/-CircleCI-3AA3E3?style=flat-square&logo=circleci&labelColor=3AA3E3)
