@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, sou o Snarloff!</h1>
-<h3 align="center">Sou um desenvolvedor Backender em Python e Javascript e desenvolvedor de Bots para o Discord! </h3>
-<h3 align="center">Diretor e Fundador da comunidade <a href="discord.gg/WfsjPMD">OneUX</a>!</h3>
+<h3 align="center">Sou desenvolvedor Backender em Python e Javascript e desenvolvedor de Bots para o Discord! </h3>
+<h3 align="center">Diretor e Fundador da comunidade <a href="https://discord.gg/fvAfbcasnP">OneUX</a>!</h3>
 
 ### Minhas Skills
 
@@ -46,12 +46,12 @@
 
 - Fale comigo:
 
- <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.gg/WfsjPMD): Snarloff#2055 </a>
+ <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.gg/fvAfbcasnP): Snarloff#2055 </a>
 
 
-#### 🚀 OneUx is the future © 2021
+### 🚀 OneUx is the future © 2021
 
-#### “O maior risco é não correr nenhum risco. Em um mundo que está mudando rapidamente, a única estratégia que certamente vai falhar é não correr riscos.” (Mark Zuckerberg)
+### “O maior risco é não correr nenhum risco. Em um mundo que está mudando rapidamente, a única estratégia que certamente vai falhar é não correr riscos.” (Mark Zuckerberg)
 ### “Previsões geralmente nos dizem mais sobre quem fez a previsão do que da previsão em si.” (Warren Buffett)
 
 <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Snarloff&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats" width="60%"><br>
