@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou o Snarloff!</h1>
-<h3 align="center">Sou desenvolvedor Backender em Python e Javascript e desenvolvedor de Bots para o Discord! </h3>
+<h3 align="center">Desenvolvedor Backender em Python e Javascript! </h3>
 <h3 align="center">Diretor e Fundador da comunidade <a href="https://discord.gg/fvAfbcasnP">OneUX</a>!</h3>
 
 ### Minhas Skills
