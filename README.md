@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Snarloff&label=Profile%20views&color=0e75b6&style=flat" alt="snarloff" /> </p>
 
-- 📖 Atualmente estou aprendendo **Next.js, Prisma, Material UI, Chakra UI**
+- 📖 Atualmente estou aprendendo **Next.js, Prisma, Material UI, Chakra UI e Dato CMS**
 - ⚙️ Técnico em **mecatrônica** - IFSP
 - 💬 Comecei a programar em 2017 sem certo rumo, tentei aprender várias linguagens até me encontrar na **linguagem Python**. Após 2 anos estudando diversas áreas, fui para o **Javascript / Typescript** onde desenvolvo até os dias de hoje. **Tento aprender cada dia algo novo.**
 - 👨‍💻 Todos meus **projetos** estão disponíveis em [https://snarloff.me](https://snarloff.me/projects)
