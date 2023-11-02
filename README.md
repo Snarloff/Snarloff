@@ -7,7 +7,7 @@
 - 📖 Atualmente estou aprendendo **Kotlin, Java, Golang...**
 - ⚙️ Técnico em **mecatrônica** - IFSP
 - 💬 Comecei a programar em 2017 sem certo rumo, tentei aprender várias linguagens até me encontrar na **linguagem Python**. Após 2 anos estudando diversas áreas, fui para o **Javascript / Typescript** onde desenvolvo até os dias de hoje. **Tento aprender cada dia algo novo.**
-- 👨‍💻 Todos meus **projetos** estão disponíveis em [https://em.desenvolvimento.ainda/](https://snarloff.me/projects)
+- 👨‍💻 Todos meus **projetos** estão disponíveis em [portfolio](https://www.snarloff.tech/)
 - ⚡ **Curiosidade:** comecei desenvolvendo Bots para o Discord e hoje **sou Desenvolvedor Verificado** da plataforma.
 - 🌐 Não, não me chamo Snarloff. *mas queria...*
 
