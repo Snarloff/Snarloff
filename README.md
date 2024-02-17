@@ -1,25 +1,53 @@
-<h1 align="center" style="text-decoration: none;">Olá 👋, sou o Snarloff</h1>
-<h3 align="center" style="text-decoration: none;">Desenvolvedor backend e frontend</h3>
+<h1 align="center" style="text-decoration: none;">Olá 👋, sou o Luís</h1>
 
-<br />
+## Um pouco sobre mim
 
-- 📚 **Especialidades:** Adonis.js, Nest.js, Next.js, Prisma, Chakra UI, Tailwind, Shadcn...
-- 📖 Atualmente estou aprendendo **Kotlin, Java, Golang...**
+- 📚 **Especialidades:** Nest.js, Fastify, React, Next.js, Prisma, Chakra UI, Tailwind, Shadcn UI...
+- 📖 Atualmente estou aprendendo **Spring Boot...**
 - ⚙️ Técnico em **mecatrônica** - IFSP
-- 💬 Comecei a programar em 2017 sem certo rumo, tentei aprender várias linguagens até me encontrar na **linguagem Python**. Após 2 anos estudando diversas áreas, fui para o **Javascript / Typescript** onde desenvolvo até os dias de hoje. **Tento aprender cada dia algo novo.**
-- 👨‍💻 Todos meus **projetos** estão disponíveis em [portfolio](https://www.snarloff.tech/)
+- 📄 Cursando Análise e Desenvolvimento de Sistemas
+- 💬 Comecei a programar em 2017 sem certo rumo, tentei aprender várias linguagens até me encontrar na **linguagem Python**. Após 2 anos estudando diversas áreas, fui para o **Javascript / Typescript** onde desenvolvo até os dias de hoje evoluindo para uma carreira sólida. **Tento aprender cada dia algo novo.**
+- 👨‍💻 Acesse meu **portfólio** clicando [aqui](https://www.snarloff.tech/).
 - ⚡ **Curiosidade:** comecei desenvolvendo Bots para o Discord e hoje **sou Desenvolvedor Verificado** da plataforma.
 - 🌐 Não, não me chamo Snarloff. *mas queria...*
 
-<br />
+## 💼 **Experiência Profissional:**
+   - Freelancer com foco em frontend e backend.
+   - Desenvolvimento de APIs
+   - Plataformas & E-commerces
+   - Gateways de pagamentos e proteção de dados
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snarloff&show_icons=true&locale=en&layout=donut" alt="snarloff" /></p>
+## 💻 **Tecnologias de Foco:**
+   - Next.js
+   - React
+   - Typescript
+   - Vue
+   - Adonis
+   - Fastify
+   - Express
 
-<a href="https://www.linkedin.com/in/snarloff/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/snarloff.digital/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://open.spotify.com/playlist/37i9dQZF1DWYfNJLV7OBMA" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="https://dev.to/snarloff" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+## 🎨 **Estilização & Design Responsivo:**
+   - Chakra
+   - Next UI
+   - Shadcn
+   - Tailwind
+   - HTML/CSS
+   - Styled Components
+   - Figma
+   - MUI
 
+## 🔧 **Tecnologias & Arquiteturas:**
+   - Clean Architecture, SOLID, TDD (Jest)
+   - API Rest
+   - Git (Controle de versão)
+   - CI/CD - Github Workflow
+   - Noções básicas de Docker
+
+## 🛢️ **Banco de Dados:**
+   - MySQL, PostgreSQL, MongoDB, Redis 
+   - ORM: Prisma, Sequelize, TypeORM
+
+---
 
 
 
